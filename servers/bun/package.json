@@ -1,0 +1,6 @@
+{
+  "name": "bun-server",
+  "dependencies": {
+    "postgres": "^3.4.4"
+  }
+}
