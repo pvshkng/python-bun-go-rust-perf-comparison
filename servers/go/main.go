@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"flag"
 	"io"
+	"log"
 	"net/http"
 	"os"
 
@@ -46,6 +47,8 @@ func main() {
 	}
 
 	http.HandleFunc("/chat", s.chat)
+	log.Print("go server listening on :8080")
+	log.Printf("targetting STUB_URL at :%s", s.stub)
 	if err := http.ListenAndServe(":8080", nil); err != nil {
 		panic(err)
 	}
@@ -65,6 +68,7 @@ func (s *server) chat(w http.ResponseWriter, r *http.Request) {
 
 	var req chatReq
 	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		log.Printf("decode request body failed: %v", err)
 		w.WriteHeader(http.StatusBadRequest)
 		return
 	}
@@ -78,6 +82,7 @@ func (s *server) chat(w http.ResponseWriter, r *http.Request) {
 		if req.ThreadID == nil {
 			row := s.db.QueryRow(ctx, "INSERT INTO threads DEFAULT VALUES RETURNING id::text")
 			if err := row.Scan(&threadID); err != nil {
+				log.Printf("insert thread failed: %v", err)
 				w.WriteHeader(http.StatusInternalServerError)
 				return
 			}
@@ -89,6 +94,7 @@ func (s *server) chat(w http.ResponseWriter, r *http.Request) {
 			"INSERT INTO messages (thread_id, role, content) VALUES ($1::uuid, 'user', $2)",
 			threadID, req.Message,
 		); err != nil {
+			log.Printf("insert user message failed: %v", err)
 			w.WriteHeader(http.StatusInternalServerError)
 			return
 		}
@@ -98,12 +104,14 @@ func (s *server) chat(w http.ResponseWriter, r *http.Request) {
 			threadID,
 		)
 		if err != nil {
+			log.Printf("query messages failed: %v", err)
 			w.WriteHeader(http.StatusInternalServerError)
 			return
 		}
 		for rows.Next() {
 			var m message
 			if err := rows.Scan(&m.Role, &m.Content); err != nil {
+				log.Printf("scan message failed: %v", err)
 				w.WriteHeader(http.StatusInternalServerError)
 				return
 			}
@@ -115,15 +123,29 @@ func (s *server) chat(w http.ResponseWriter, r *http.Request) {
 	}
 
 	body, _ := json.Marshal(map[string]any{"messages": msgs})
-	upReq, _ := http.NewRequestWithContext(ctx, http.MethodPost, s.stub, bytes.NewReader(body))
+	upReq, err := http.NewRequestWithContext(ctx, http.MethodPost, s.stub, bytes.NewReader(body))
+	if err != nil {
+		log.Printf("stub request build failed for url %q: %v", s.stub, err)
+		w.WriteHeader(http.StatusInternalServerError)
+		return
+	}
 	upReq.Header.Set("Content-Type", "application/json")
 
 	resp, err := s.client.Do(upReq)
 	if err != nil {
+		log.Printf("stub request to %q failed: %v", s.stub, err)
 		w.WriteHeader(http.StatusBadGateway)
 		return
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		errBody, _ := io.ReadAll(resp.Body)
+		log.Printf("stub %q returned status %d: %s", s.stub, resp.StatusCode, errBody)
+		w.WriteHeader(resp.StatusCode)
+		w.Write(errBody)
+		return
+	}
 
 	w.Header().Set("Content-Type", "text/event-stream")
 	w.Header().Set("Cache-Control", "no-cache")
@@ -147,9 +169,11 @@ func (s *server) chat(w http.ResponseWriter, r *http.Request) {
 	}
 
 	if s.db != nil {
-		s.db.Exec(context.Background(),
+		if _, err := s.db.Exec(context.Background(),
 			"INSERT INTO messages (thread_id, role, content) VALUES ($1::uuid, 'assistant', $2)",
 			threadID, captured.String(),
-		)
+		); err != nil {
+			log.Printf("insert assistant message failed: %v", err)
+		}
 	}
 }

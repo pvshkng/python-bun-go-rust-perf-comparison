@@ -3,7 +3,7 @@ import { check } from "k6";
 
 export const options = {
   vus: 10,
-  duration: "30s",
+  duration: "60s",
 };
 
 let threadId = null;

@@ -4,7 +4,7 @@ const useDB = Bun.argv.includes("--db");
 const sql = useDB ? postgres(process.env.DATABASE_URL!) : null;
 const STUB_URL = process.env.STUB_URL!;
 
-Bun.serve({
+const server = Bun.serve({
   hostname: "0.0.0.0",
   port: 8080,
   async fetch(req) {
@@ -73,3 +73,6 @@ Bun.serve({
     return new Response(stream, { headers });
   },
 });
+
+console.log(`bun server listening on :${server.port}`);
+console.log(`targetting STUB_URL at :${STUB_URL}`)

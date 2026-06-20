@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"log"
 	"net/http"
 	"os"
 	"strconv"
@@ -51,6 +52,7 @@ func main() {
 	})
 
 	port := getenv("PORT", "9090")
+	log.Printf("stub listening on :%s", port)
 	if err := http.ListenAndServe(":"+port, nil); err != nil {
 		panic(err)
 	}
