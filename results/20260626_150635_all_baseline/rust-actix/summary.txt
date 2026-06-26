@@ -1,0 +1,11 @@
+server:   rust-actix
+scenario: baseline
+requests: 68891
+req/s:    1148.06
+avg ms:   8.56
+p95 ms:   15.35
+max ms:   35.33
+fail %:   0
+cpu avg:  113.2
+cpu max:  115.0
+mem max:  9.2 MB

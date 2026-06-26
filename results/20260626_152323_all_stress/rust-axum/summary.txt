@@ -1,0 +1,11 @@
+server:   rust-axum
+scenario: stress
+requests: 83096
+req/s:    1187.07
+avg ms:   59.77
+p95 ms:   268.84
+max ms:   1751.73
+fail %:   0
+cpu avg:  102.5
+cpu max:  107.0
+mem max:  23.4 MB

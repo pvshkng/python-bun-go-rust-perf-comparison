@@ -1,0 +1,182 @@
+Linux 7.0.12-1-cachyos (cachyos-x8664) 	2026-06-26 	_x86_64_	(4 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:48     1000     45411   40.00   27.00    0.00   45.00   67.00     2  13811.00     66.00 74131396   99616   1.23  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:49     1000     45411   37.62   25.74    0.00   50.50   63.37     1   8916.83      2.97 74131396  101488   1.26  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:50     1000     45411   40.00   29.00    0.00   49.00   69.00     2  18792.00      3.00 74131396  102728   1.27  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:51     1000     45411   38.00   26.00    0.00   51.00   64.00     1  16589.00      0.00 74131396   99344   1.23  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:52     1000     45411   36.00   28.00    0.00   50.00   64.00     1   6075.00      0.00 74131396  100740   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:53     1000     45411   36.00   26.00    0.00   49.00   62.00     3  12107.00      0.00 74131396  101080   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:54     1000     45411   35.00   27.00    0.00   50.00   62.00     2  14663.00      0.00 74131396   90720   1.12  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:55     1000     45411   32.00   30.00    0.00   49.00   62.00     2  15766.00      0.00 74131396  100340   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:56     1000     45411   34.00   28.00    0.00   49.00   62.00     0   3897.00      1.00 74131396  100488   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:57     1000     45411   34.00   28.00    0.00   50.00   62.00     1  12800.00      0.00 74131396  100780   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:58     1000     45411   33.00   30.00    0.00   48.00   63.00     1  13509.00      0.00 74131396  100940   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:09:59     1000     45411   36.00   28.00    0.00   50.00   64.00     0  14788.00      0.00 74131396  104836   1.30  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:00     1000     45411   34.00   26.00    0.00   50.00   60.00     2   9672.00      0.00 74131396   96508   1.19  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:01     1000     45411   33.00   29.00    0.00   47.00   62.00     0  12420.00      0.00 74131396  100416   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:02     1000     45411   35.00   28.00    0.00   51.00   63.00     2  16004.00      0.00 74131396  101000   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:03     1000     45411   33.00   28.00    0.00   48.00   61.00     1   9580.00      0.00 74131396  100272   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:04     1000     45411   34.00   27.00    0.00   49.00   61.00     0  13809.00      0.00 74131396   97164   1.20  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:05     1000     45411   34.00   27.00    0.00   50.00   61.00     2   9168.00      0.00 74131396  100468   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:06     1000     45411   33.00   28.00    0.00   50.00   61.00     1   4436.00      0.00 74131396  100716   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:07     1000     45411   34.00   26.00    0.00   51.00   60.00     1   4140.00      0.00 74131396  100520   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:08     1000     45411   33.00   28.00    0.00   50.00   61.00     3  13043.00      0.00 74131396   97492   1.21  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:09     1000     45411   36.00   29.00    0.00   49.00   65.00     0  16190.00      0.00 74131396   93948   1.16  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:10     1000     45411   35.00   26.00    0.00   51.00   61.00     2   4803.00      0.00 74131396  100920   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:11     1000     45411   34.00   25.00    0.00   52.00   59.00     0   3438.00      0.00 74131396  103364   1.28  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:12     1000     45411   34.00   27.00    0.00   50.00   61.00     2  12349.00      0.00 74131396   98472   1.22  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:13     1000     45411   34.00   32.00    0.00   48.00   66.00     3  21815.00      0.00 74131396  101092   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:14     1000     45411   35.00   28.00    0.00   50.00   63.00     2   9601.00      0.00 74131396  101968   1.26  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:15     1000     45411   37.00   28.00    0.00   50.00   65.00     2  10516.00      0.00 74131396  101096   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:16     1000     45411   36.00   30.00    0.00   49.00   66.00     2  14726.00      0.00 74131396  100696   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:17     1000     45411   36.00   29.00    0.00   49.00   65.00     3  20865.00      0.00 74131396   96556   1.20  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:18     1000     45411   34.00   30.00    0.00   47.00   64.00     1  17171.00      0.00 74131396  100752   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:19     1000     45411   38.00   29.00    0.00   49.00   67.00     3  16486.00      0.00 74131396   93160   1.15  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:20     1000     45411   36.00   31.00    0.00   48.00   67.00     3  16641.00      0.00 74131396   94492   1.17  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:21     1000     45411   34.00   29.00    0.00   49.00   63.00     0  15609.00      0.00 74131396  104960   1.30  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:22     1000     45411   32.67   28.71    0.00   47.52   61.39     2  11622.77      0.00 74131396   86600   1.07  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:23     1000     45411   35.00   29.00    0.00   50.00   64.00     0  13373.00      0.00 74131396  101020   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:24     1000     45411   34.00   29.00    0.00   52.00   63.00     3   6814.00      0.00 74131396  101792   1.26  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:25     1000     45411   35.00   28.00    0.00   51.00   63.00     2   4883.00      0.00 74131396   97748   1.21  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:26     1000     45411   36.00   27.00    0.00   48.00   63.00     3   5169.00      0.00 74131396  101108   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:27     1000     45411   35.00   28.00    0.00   51.00   63.00     0   3055.00      0.00 74131396   96716   1.20  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:28     1000     45411   33.00   28.00    0.00   51.00   61.00     3  11622.00      0.00 74131396  101276   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:29     1000     45411   34.00   28.00    0.00   50.00   62.00     2  11779.00      0.00 74131396  101276   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:30     1000     45411   35.00   28.00    0.00   50.00   63.00     1  14747.00      0.00 74131396  100480   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:31     1000     45411   35.00   26.00    0.00   50.00   61.00     0   4459.00      0.00 74131396   97520   1.21  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:32     1000     45411   32.00   28.00    0.00   50.00   60.00     1  11680.00      0.00 74131396   88908   1.10  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:33     1000     45411   32.00   29.00    0.00   51.00   61.00     1   9151.00      0.00 74131396  101292   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:34     1000     45411   36.00   24.00    0.00   51.00   60.00     2   5430.00      0.00 74131396  101064   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:35     1000     45411   33.00   24.00    0.00   50.00   57.00     0   7086.00      0.00 74131396   96876   1.20  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:36     1000     45411   33.00   25.00    0.00   52.00   58.00     2  11510.00      0.00 74131396  100948   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:37     1000     45411   31.00   25.00    0.00   50.00   56.00     3  11672.00      0.00 74131396   99484   1.23  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:38     1000     45411   36.00   26.00    0.00   52.00   62.00     2  11997.00      0.00 74131396  100624   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:39     1000     45411   33.00   26.00    0.00   51.00   59.00     3  17973.00      0.00 74131396   96848   1.20  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:40     1000     45411   29.00   27.00    0.00   51.00   56.00     3  20421.00      0.00 74131396  104584   1.29  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:41     1000     45411   33.00   23.00    0.00   51.00   56.00     2   1523.00      0.00 74131396   94040   1.16  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:42     1000     45411   32.00   29.00    0.00   48.00   61.00     2   5828.00      0.00 74131396   96528   1.19  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:43     1000     45411   30.00   28.00    0.00   53.00   58.00     2   9314.00      0.00 74131396  101076   1.25  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:44     1000     45411   33.00   25.00    0.00   50.00   58.00     0   3059.00      0.00 74131396  100460   1.24  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:45     1000     45411   34.00   24.00    0.00   51.00   58.00     1   5095.00      0.00 74131396  104788   1.30  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:46     1000     45411   31.00   27.00    0.00   51.00   58.00     0  18128.00      0.00 74131396   95924   1.19  bun
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:10:47     1000     45411   33.00   27.00    0.00   50.00   60.00     0   5250.00      0.00 74131396  100756   1.25  bun
+

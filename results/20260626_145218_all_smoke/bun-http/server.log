@@ -1,0 +1,2 @@
+bun-http server listening on :8080
+targetting STUB_URL at :http://localhost:9090/v1/chat/completions

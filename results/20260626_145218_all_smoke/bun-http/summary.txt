@@ -1,0 +1,11 @@
+server:   bun-http
+scenario: smoke
+requests: 8147
+req/s:    1357.09
+avg ms:   7.21
+p95 ms:   12.62
+max ms:   26.93
+fail %:   0
+cpu avg:  60.0
+cpu max:  67.0
+mem max:  100.1 MB

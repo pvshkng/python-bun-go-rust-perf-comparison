@@ -1,0 +1,7 @@
+{
+  "name": "bun-hono-server",
+  "dependencies": {
+    "hono": "^4.6.0",
+    "postgres": "^3.4.4"
+  }
+}

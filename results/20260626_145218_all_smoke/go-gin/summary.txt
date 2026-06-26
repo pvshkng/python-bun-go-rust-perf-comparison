@@ -1,0 +1,11 @@
+server:   go-gin
+scenario: smoke
+requests: 9010
+req/s:    1500.06
+avg ms:   6.48
+p95 ms:   11.94
+max ms:   25.58
+fail %:   0
+cpu avg:  84.7
+cpu max:  87.0
+mem max:  22.1 MB

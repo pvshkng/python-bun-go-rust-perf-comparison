@@ -1,0 +1,11 @@
+server:   go-http
+scenario: stress
+requests: 99668
+req/s:    1423.82
+avg ms:   49.69
+p95 ms:   201.83
+max ms:   942.83
+fail %:   0
+cpu avg:  82.6
+cpu max:  89.0
+mem max:  37.4 MB

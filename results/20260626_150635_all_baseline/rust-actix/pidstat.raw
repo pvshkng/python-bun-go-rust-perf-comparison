@@ -1,0 +1,182 @@
+Linux 7.0.12-1-cachyos (cachyos-x8664) 	2026-06-26 	_x86_64_	(4 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:12:59     1000     46355   44.00   64.00    0.00    0.00  108.00     3    368.00      0.00  960276    8940   0.11  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:00     1000     46355   47.00   65.00    0.00    0.00  112.00     3      8.00      0.00  960276    9196   0.11  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:01     1000     46355   44.00   69.00    0.00    0.00  113.00     3      6.00      0.00  960276    9196   0.11  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:02     1000     46355   45.00   67.00    0.00    0.00  112.00     3      3.00      0.00  960276    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:03     1000     46355   45.00   68.00    0.00    0.00  113.00     3      2.00      0.00  960276    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:04     1000     46355   44.00   69.00    0.00    0.00  113.00     3      3.00      0.00  960276    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:05     1000     46355   47.00   67.00    0.00    0.00  114.00     3      4.00      0.00  960276    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:06     1000     46355   45.00   68.00    0.00    0.00  113.00     3      1.00      0.00  960276    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:07     1000     46355   43.00   71.00    0.00    0.00  114.00     3      0.00      0.00  960276    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:08     1000     46355   44.00   70.00    0.00    0.00  114.00     3      0.00      0.00  960276    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:09     1000     46355   45.00   68.00    0.00    0.00  113.00     3      1.00      0.00  960168    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:10     1000     46355   43.56   68.32    0.00    0.00  111.88     3      1.98      0.00  960168    9324   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:11     1000     46355   44.00   70.00    0.00    0.00  114.00     3      3.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:12     1000     46355   45.00   68.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:13     1000     46355   44.00   68.00    0.00    0.00  112.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:14     1000     46355   44.00   70.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:15     1000     46355   46.00   68.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:16     1000     46355   45.00   68.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:17     1000     46355   47.00   67.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:18     1000     46355   43.00   69.00    0.00    0.00  112.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:19     1000     46355   44.00   68.00    0.00    0.00  112.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:20     1000     46355   47.00   65.00    0.00    0.00  112.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:21     1000     46355   41.00   70.00    0.00    0.00  111.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:22     1000     46355   44.00   69.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:23     1000     46355   47.00   67.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:24     1000     46355   42.57   68.32    0.00    0.00  110.89     3      0.99      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:25     1000     46355   44.00   71.00    0.00    0.00  115.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:26     1000     46355   43.00   69.00    0.00    0.00  112.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:27     1000     46355   47.00   66.00    0.00    0.00  113.00     3      1.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:28     1000     46355   48.00   65.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:29     1000     46355   45.00   67.00    0.00    0.00  112.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:30     1000     46355   44.00   70.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:31     1000     46355   44.00   69.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:32     1000     46355   48.00   67.00    0.00    0.00  115.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:33     1000     46355   44.00   68.00    0.00    0.00  112.00     3      1.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:34     1000     46355   49.00   66.00    0.00    0.00  115.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:35     1000     46355   46.00   69.00    0.00    0.00  115.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:36     1000     46355   46.00   67.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:37     1000     46355   43.56   67.33    0.00    0.00  110.89     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:38     1000     46355   44.00   69.00    0.00    0.00  113.00     3      1.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:39     1000     46355   45.00   68.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:40     1000     46355   43.00   69.00    0.00    0.00  112.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:41     1000     46355   44.00   71.00    0.00    0.00  115.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:42     1000     46355   46.00   68.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:43     1000     46355   45.00   68.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:44     1000     46355   46.00   69.00    0.00    0.00  115.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:45     1000     46355   43.00   70.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:46     1000     46355   43.00   71.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:47     1000     46355   48.00   66.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:48     1000     46355   45.00   68.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:49     1000     46355   43.00   71.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:50     1000     46355   46.00   68.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:51     1000     46355   44.00   69.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:52     1000     46355   44.00   70.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:53     1000     46355   45.00   68.00    0.00    0.00  113.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:54     1000     46355   45.00   69.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:55     1000     46355   46.00   69.00    0.00    0.00  115.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:56     1000     46355   46.00   67.00    0.00    0.00  113.00     3      1.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:57     1000     46355   47.52   67.33    0.00    0.00  114.85     3      0.00      0.00  960168    9452   0.12  rust-actix
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:13:58     1000     46355   44.00   70.00    0.00    0.00  114.00     3      0.00      0.00  960168    9452   0.12  rust-actix
+

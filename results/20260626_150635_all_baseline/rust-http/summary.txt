@@ -1,0 +1,11 @@
+server:   rust-http
+scenario: baseline
+requests: 50164
+req/s:    835.94
+avg ms:   11.76
+p95 ms:   20.16
+max ms:   41.89
+fail %:   0
+cpu avg:  130.4
+cpu max:  133.0
+mem max:  4.4 MB

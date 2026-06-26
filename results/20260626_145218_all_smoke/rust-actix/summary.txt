@@ -1,0 +1,11 @@
+server:   rust-actix
+scenario: smoke
+requests: 5646
+req/s:    939.04
+avg ms:   10.43
+p95 ms:   20.52
+max ms:   47.88
+fail %:   0
+cpu avg:  88.0
+cpu max:  104.0
+mem max:  9.4 MB

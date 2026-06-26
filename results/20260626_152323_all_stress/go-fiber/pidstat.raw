@@ -1,0 +1,212 @@
+Linux 7.0.12-1-cachyos (cachyos-x8664) 	2026-06-26 	_x86_64_	(4 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:51     1000     48972   29.00   50.00    0.00    9.00   79.00     1    655.00      0.00 1792656   19112   0.24  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:52     1000     48972   33.00   52.00    0.00   15.00   85.00     0    560.00      0.00 1792788   20420   0.25  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:53     1000     48972   33.00   53.00    0.00   21.00   86.00     3    582.00      0.00 1866520   20796   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:54     1000     48972   36.00   50.00    0.00   18.00   86.00     2    597.00      0.00 1866652   20936   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:55     1000     48972   36.00   50.00    0.00   31.00   86.00     2   1084.00      0.00 1866652   21164   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:56     1000     48972   38.00   44.00    0.00   33.00   82.00     1    605.00      0.00 1866652   21260   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:57     1000     48972   41.00   44.00    0.00   32.00   85.00     1    929.00      0.00 1940384   21724   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:58     1000     48972   39.00   44.00    0.00   36.00   83.00     2    567.00      0.00 1940384   21752   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:25:59     1000     48972   38.00   44.00    0.00   20.00   82.00     2    529.00      0.00 1940384   21748   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:00     1000     48972   36.00   46.00    0.00   27.00   82.00     0   1230.00      0.00 1940384   21296   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:01     1000     48972   35.00   46.00    0.00    3.00   81.00     3    698.00      0.00 1940384   21380   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:02     1000     48972   37.00   44.00    0.00   31.00   81.00     2   1373.00      0.00 1940384   21244   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:03     1000     48972   38.00   42.00    0.00   32.00   80.00     0    895.00      0.00 1940384   21460   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:04     1000     48972   36.00   42.00    0.00   40.00   78.00     2   1005.00      0.00 1940384   21152   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:05     1000     48972   35.00   44.00    0.00   35.00   79.00     2    900.00      0.00 1940384   21248   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:06     1000     48972   37.00   43.00    0.00   28.00   80.00     2    815.00      0.00 1940640   21432   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:07     1000     48972   36.00   42.00    0.00   28.00   78.00     2    606.00      0.00 1940640   21716   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:08     1000     48972   38.00   41.00    0.00   34.00   79.00     2    452.00      0.00 1940640   21284   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:09     1000     48972   39.00   39.00    0.00   39.00   78.00     0    666.00      0.00 1940640   21072   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:10     1000     48972   37.00   43.00    0.00   40.00   80.00     1    290.00      0.00 1940640   20892   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:11     1000     48972   39.00   40.00    0.00   32.00   79.00     1    434.00      0.00 1940640   21088   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:12     1000     48972   38.61   39.60    0.00   29.70   78.22     2    543.56      0.00 1940640   21500   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:13     1000     48972   42.00   40.00    0.00   31.00   82.00     2    432.00      0.00 2014372   21380   0.26  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:14     1000     48972   43.00   41.00    0.00    4.00   84.00     0    615.00      0.00 2014372   21628   0.27  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:15     1000     48972   43.00   38.00    0.00   38.00   81.00     3   1018.00      0.00 2014372   23068   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:16     1000     48972   43.00   38.00    0.00   19.00   81.00     0    954.00      0.00 2014372   23636   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:17     1000     48972   41.00   41.00    0.00   33.00   82.00     2   1000.00      0.00 2014372   23784   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:18     1000     48972   42.00   37.00    0.00   28.00   79.00     3    460.00      0.00 2014372   22968   0.28  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:19     1000     48972   37.00   42.00    0.00    4.00   79.00     1    895.00      0.00 2014372   23332   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:20     1000     48972   38.00   43.00    0.00   32.00   81.00     2    500.00      0.00 2014372   23668   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:21     1000     48972   37.00   39.00    0.00   27.00   76.00     2    540.00      0.00 2014372   23540   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:22     1000     48972   38.00   42.00    0.00   36.00   80.00     2    456.00      0.00 2014372   23584   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:23     1000     48972   36.00   41.00    0.00   35.00   77.00     0    564.00      0.00 2014372   23460   0.29  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:24     1000     48972   38.00   39.00    0.00   40.00   77.00     3    519.00      0.00 2014372   23856   0.30  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:25     1000     48972   41.00   38.00    0.00   38.00   79.00     3    659.00      0.00 2014372   24456   0.30  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:26     1000     48972   38.00   40.00    0.00   17.00   78.00     1    299.00      0.00 2014372   24692   0.31  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:27     1000     48972   40.00   39.00    0.00   24.00   79.00     0    341.00      0.00 2014372   25016   0.31  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:28     1000     48972   34.00   42.00    0.00   29.00   76.00     0    489.00      0.00 2014628   25436   0.31  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:29     1000     48972   35.00   43.00    0.00   33.00   78.00     3    118.00      0.00 2014628   25424   0.31  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:30     1000     48972   35.00   41.00    0.00   23.00   76.00     1    520.00      0.00 2088360   26228   0.32  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:31     1000     48972   38.00   39.00    0.00   25.00   77.00     2    368.00      0.00 2088360   28560   0.35  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:32     1000     48972   37.00   41.00    0.00   18.00   78.00     1    291.00      0.00 2088360   28280   0.35  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:33     1000     48972   35.64   37.62    0.00   34.65   73.27     3    145.54      0.00 2088360   28220   0.35  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:34     1000     48972   37.00   40.00    0.00   39.00   77.00     2    337.00      0.00 2088360   28416   0.35  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:35     1000     48972   38.00   40.00    0.00   34.00   78.00     1    245.00      0.00 2088360   27688   0.34  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:36     1000     48972   37.00   40.00    0.00   35.00   77.00     1    455.00      0.00 2088360   28664   0.35  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:37     1000     48972   35.00   41.00    0.00    0.00   76.00     1    307.00      0.00 2088360   28748   0.36  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:38     1000     48972   35.00   44.00    0.00   28.00   79.00     0    342.00      0.00 2088360   28896   0.36  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:39     1000     48972   37.00   39.00    0.00   37.00   76.00     2    322.00      0.00 2088360   29760   0.37  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:40     1000     48972   35.00   40.00    0.00   27.00   75.00     2    634.00      0.00 2088360   31076   0.38  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:41     1000     48972   37.00   41.00    0.00   34.00   78.00     0    128.00      0.00 2088616   30912   0.38  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:42     1000     48972   37.00   41.00    0.00   32.00   78.00     3    263.00      0.00 2088616   31040   0.38  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:43     1000     48972   36.00   40.00    0.00   30.00   76.00     3    484.00      0.00 2088616   31424   0.39  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:44     1000     48972   36.00   41.00    0.00    9.00   77.00     2    320.00      0.00 2088616   32412   0.40  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:45     1000     48972   37.00   39.00    0.00    0.00   76.00     2    360.00      0.00 2088616   33436   0.41  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:46     1000     48972   37.00   39.00    0.00   10.00   76.00     1    228.00      0.00 2088872   33644   0.42  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:47     1000     48972   39.00   38.00    0.00   37.00   77.00     0    286.00      0.00 2088872   34228   0.42  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:48     1000     48972   33.66   40.59    0.00   15.84   74.26     2    264.36      0.00 2088872   35100   0.43  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:49     1000     48972   33.00   41.00    0.00   10.00   74.00     0    284.00      0.00 2088872   35836   0.44  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:50     1000     48972   40.00   38.00    0.00   31.00   78.00     1    109.00      0.00 2088872   35736   0.44  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:51     1000     48972   35.00   37.00    0.00   25.00   72.00     1    482.00      0.00 2088872   36664   0.45  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:52     1000     48972   35.00   36.00    0.00   32.00   71.00     3      3.00      0.00 2088872   35660   0.44  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:53     1000     48972   36.00   38.00    0.00   36.00   74.00     2    116.00      0.00 2088872   34656   0.43  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:54     1000     48972   38.00   38.00    0.00   35.00   76.00     2      1.00      0.00 2088872   33452   0.41  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:55     1000     48972   36.00   40.00    0.00   30.00   76.00     0     24.00      0.00 2088872   32888   0.41  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:56     1000     48972   35.00   39.00    0.00   12.00   74.00     3     44.00      0.00 2088872   32196   0.40  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:57     1000     48972   33.00   41.00    0.00   38.00   74.00     0     77.00      0.00 2088872   30628   0.38  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:58     1000     48972   37.00   42.00    0.00   29.00   79.00     2     49.00      0.00 2088872   29540   0.37  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:26:59     1000     48972   37.00   41.00    0.00   32.00   78.00     1    225.00      0.00 2088872   28792   0.36  go-fiber
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:27:00     1000     48972   33.00   45.00    0.00   25.00   78.00     0    107.00      0.00 2088872   28120   0.35  go-fiber
+

@@ -1,0 +1,65 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+
+     execution: local
+        script: /home/puvish/Projects/python-bun-go-rust-perf-comparison/k6/smoke.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 10 max VUs, 36s max duration (incl. graceful stop):
+              * default: 10 looping VUs for 6s (gracefulStop: 30s)
+
+
+running (01.0s), 10/10 VUs, 1499 complete and 0 interrupted iterations
+default   [  17% ] 10 VUs  1.0s/6s
+
+running (02.0s), 10/10 VUs, 3026 complete and 0 interrupted iterations
+default   [  33% ] 10 VUs  2.0s/6s
+
+running (03.0s), 10/10 VUs, 4573 complete and 0 interrupted iterations
+default   [  50% ] 10 VUs  3.0s/6s
+
+running (04.0s), 10/10 VUs, 6083 complete and 0 interrupted iterations
+default   [  67% ] 10 VUs  4.0s/6s
+
+running (05.0s), 10/10 VUs, 7621 complete and 0 interrupted iterations
+default   [  83% ] 10 VUs  5.0s/6s
+
+running (06.0s), 10/10 VUs, 9101 complete and 0 interrupted iterations
+default   [ 100% ] 10 VUs  6.0s/6s
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......: 18228   3034.563837/s
+    checks_succeeded...: 100.00% 18228 out of 18228
+    checks_failed......: 0.00%   0 out of 18228
+
+    ✓ status 200
+    ✓ has DONE
+
+    HTTP
+    http_req_duration..............: avg=6.44ms min=1.54ms med=6.08ms max=24.59ms p(90)=9.37ms p(95)=10.62ms
+      { expected_response:true }...: avg=6.44ms min=1.54ms med=6.08ms max=24.59ms p(90)=9.37ms p(95)=10.62ms
+    http_req_failed................: 0.00%  0 out of 9114
+    http_reqs......................: 9114   1517.281918/s
+
+    EXECUTION
+    iteration_duration.............: avg=6.57ms min=1.63ms med=6.21ms max=24.75ms p(90)=9.51ms p(95)=10.76ms
+    iterations.....................: 9114   1517.281918/s
+    vus............................: 10     min=10        max=10
+    vus_max........................: 10     min=10        max=10
+
+    NETWORK
+    data_received..................: 73 MB  12 MB/s
+    data_sent......................: 1.5 MB 247 kB/s
+
+
+
+
+running (06.0s), 00/10 VUs, 9114 complete and 0 interrupted iterations
+default ✓ [ 100% ] 10 VUs  6s

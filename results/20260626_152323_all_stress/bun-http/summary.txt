@@ -1,0 +1,11 @@
+server:   bun-http
+scenario: stress
+requests: 108015
+req/s:    1543.06
+avg ms:   45.82
+p95 ms:   125.4
+max ms:   312.78
+fail %:   0
+cpu avg:  66.0
+cpu max:  110.0
+mem max:  122.1 MB

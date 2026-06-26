@@ -1,0 +1,11 @@
+server:   bun-hono
+scenario: smoke
+requests: 9114
+req/s:    1517.28
+avg ms:   6.44
+p95 ms:   10.62
+max ms:   24.6
+fail %:   0
+cpu avg:  73.5
+cpu max:  77.0
+mem max:  103.3 MB

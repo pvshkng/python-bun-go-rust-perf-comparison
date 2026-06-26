@@ -1,0 +1,11 @@
+server:   bun-http
+scenario: baseline
+requests: 95625
+req/s:    1593.63
+avg ms:   6.14
+p95 ms:   9.85
+max ms:   26.13
+fail %:   0
+cpu avg:  61.8
+cpu max:  69.0
+mem max:  102.5 MB

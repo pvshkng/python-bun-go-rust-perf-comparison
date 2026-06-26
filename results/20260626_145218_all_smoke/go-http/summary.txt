@@ -1,0 +1,11 @@
+server:   go-http
+scenario: smoke
+requests: 6381
+req/s:    1062.98
+avg ms:   9.19
+p95 ms:   18.97
+max ms:   47.99
+fail %:   0
+cpu avg:  55.9
+cpu max:  64.0
+mem max:  18.5 MB

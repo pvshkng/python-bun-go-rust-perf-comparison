@@ -1,0 +1,212 @@
+Linux 7.0.12-1-cachyos (cachyos-x8664) 	2026-06-26 	_x86_64_	(4 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:31     1000     50096    7.00   43.00    0.00    0.00   50.00     3      8.00      0.00   74108    3768   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:32     1000     50096   13.00   54.00    0.00    0.00   67.00     3     19.00      0.00  141708    3896   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:33     1000     50096   15.00   79.00    0.00    0.00   94.00     3      0.00      0.00  141708    3896   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:34     1000     50096   19.00   87.00    0.00    0.00  106.00     1     19.00      0.00  209308    3896   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:35     1000     50096   21.00   91.00    0.00    0.00  112.00     1      0.00      0.00  209308    3896   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:36     1000     50096   20.00  101.00    0.00    0.00  121.00     1     20.00      0.00  276908    4024   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:37     1000     50096   22.00   99.00    0.00    0.00  121.00     1     20.00      0.00  344508    4152   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:38     1000     50096   24.00  101.00    0.00    0.00  125.00     1      0.00      0.00  344508    4152   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:39     1000     50096   20.00  106.00    0.00    0.00  126.00     1     19.00      0.00  412108    4280   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:40     1000     50096   22.00  103.00    0.00    0.00  125.00     1      0.00      0.00  412108    4280   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:41     1000     50096   23.00  105.00    0.00    0.00  128.00     1     19.00      0.00  479708    4280   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:42     1000     50096   22.00  107.00    0.00    0.00  129.00     3     21.00      0.00  547308    4280   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:43     1000     50096   22.00  108.00    0.00    0.00  130.00     3      0.00      0.00  547308    4280   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:44     1000     50096   22.00  108.00    0.00    0.00  130.00     2     20.00      0.00  614908    4280   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:45     1000     50096   22.00  108.00    0.00    0.00  130.00     2      0.00      0.00  614908    4280   0.05  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:46     1000     50096   23.00  106.00    0.00    0.00  129.00     1     57.00      0.00  817708    4536   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:47     1000     50096   24.00  105.00    0.00    0.00  129.00     1     55.00      0.00 1020508    4792   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:48     1000     50096   22.00  106.00    0.00    0.00  128.00     0     57.00      0.00 1223308    5048   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:49     1000     50096   25.00  103.00    0.00    0.00  128.00     1     56.00      0.00 1426108    5304   0.07  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:50     1000     50096   23.00  105.00    0.00    0.00  128.00     1     59.00      0.00 1628908    5432   0.07  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:51     1000     50096   23.00  103.00    0.00    1.00  126.00     0     54.00      0.00 1831708    5560   0.07  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:52     1000     50096   23.00  105.00    0.00    0.00  128.00     3     56.00      0.00 2034508    5944   0.07  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:53     1000     50096   21.00  105.00    0.00    0.00  126.00     3     54.00      0.00 2106400    6200   0.08  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:54     1000     50096   22.00  103.00    0.00    0.00  125.00     3     57.00      0.00 2112592    6328   0.08  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:55     1000     50096   24.75  100.99    0.00    0.00  125.74     0     57.43      0.00 2118784    6584   0.08  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:56     1000     50096   22.00  104.00    0.00    0.00  126.00     2     57.00      0.00 2124976    6840   0.08  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:57     1000     50096   25.00  101.00    0.00    1.00  126.00     2     52.00      0.00 2131168    7096   0.09  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:58     1000     50096   22.00  103.00    0.00    0.00  125.00     0     57.00      0.00 2137360    7352   0.09  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:29:59     1000     50096   23.00  101.00    0.00    0.00  124.00     0     56.00      0.00 2143552    7480   0.09  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:00     1000     50096   21.00  103.00    0.00    0.00  124.00     2     55.00      0.00 2149744    7608   0.09  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:01     1000     50096   21.00  102.00    0.00    0.00  123.00     3     54.00      0.00 2155936    7736   0.10  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:02     1000     50096   20.00  105.00    0.00    0.00  125.00     2     56.00      0.00 2162128    8248   0.10  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:03     1000     50096   21.00  102.00    0.00    0.00  123.00     3     51.00      0.00 2168320    8248   0.10  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:04     1000     50096   21.00  103.00    0.00    0.00  124.00     3     60.00      0.00 2174512    8632   0.11  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:05     1000     50096   26.00   99.00    0.00    1.00  125.00     3     43.00      0.00 2180704    8632   0.11  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:06     1000     50096   20.00  103.00    0.00    0.00  123.00     3     56.00      0.00 2186896    9144   0.11  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:07     1000     50096   21.00  103.00    0.00    0.00  124.00     1     58.00      0.00 2193088    9272   0.11  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:08     1000     50096   20.00  104.00    0.00    0.00  124.00     0     56.00      0.00 2199280    9400   0.12  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:09     1000     50096   23.00  101.00    0.00    0.00  124.00     0     50.00      0.00 2205472    9656   0.12  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:10     1000     50096   24.00  100.00    0.00    1.00  124.00     3     55.00      0.00 2211664    9784   0.12  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:11     1000     50096   23.76  100.99    0.00    0.00  124.75     0     50.50      0.00 2217856    9912   0.12  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:12     1000     50096   20.00  103.00    0.00    0.00  123.00     0     57.00      0.00 2224048   10296   0.13  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:13     1000     50096   22.00   99.00    0.00    0.00  121.00     1     54.00      0.00 2230240   10424   0.13  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:14     1000     50096   22.00  102.00    0.00    0.00  124.00     1     53.00      0.00 2236568   10680   0.13  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:15     1000     50096   21.00  104.00    0.00    1.00  125.00     3     58.00      0.00 2242760   10808   0.13  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:16     1000     50096   21.00  100.00    0.00    0.00  121.00     2    116.00      0.00 2257208   11320   0.14  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:17     1000     50096   25.00   97.00    0.00    0.00  122.00     3    159.00      0.00 2271656   11832   0.15  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:18     1000     50096   23.00  101.00    0.00    0.00  124.00     2    171.00      0.00 2283932   12472   0.15  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:19     1000     50096   20.79  100.99    0.00    0.99  121.78     3    158.42      0.00 2298388   12984   0.16  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:20     1000     50096   26.00   98.00    0.00    0.00  124.00     0    164.00      0.00 2313112   13496   0.17  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:21     1000     50096   23.00   99.00    0.00    0.00  122.00     3    163.00      0.00 2325496   14008   0.17  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:22     1000     50096   24.00   97.00    0.00    1.00  121.00     2    166.00      0.00 2339944   14520   0.18  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:23     1000     50096   23.00   98.00    0.00    0.00  121.00     2    141.00      0.00 2354392   15032   0.19  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:24     1000     50096   21.00   97.00    0.00    1.00  118.00     2    162.00      0.00 2366776   15544   0.19  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:25     1000     50096   23.76   94.06    0.00    0.00  117.82     0    162.38      0.00 2381224   16184   0.20  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:26     1000     50096   22.00   96.00    0.00    1.00  118.00     0    123.00      0.00 2395672   16568   0.21  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:27     1000     50096   21.00   97.00    0.00    0.00  118.00     0    119.00      0.00 2408056   16952   0.21  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:28     1000     50096   24.00   94.00    0.00    1.00  118.00     2    177.00      0.00 2422504   17592   0.22  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:29     1000     50096   24.00   95.00    0.00    0.00  119.00     0    139.00      0.00 2436952   17976   0.22  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:30     1000     50096   25.00   91.00    0.00    0.00  116.00     3    100.00      0.00 2449336   18360   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:31     1000     50096   22.00   94.00    0.00    0.00  116.00     1     41.00      0.00 2451400   18360   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:32     1000     50096   26.00   92.00    0.00    0.00  118.00     1     26.00      0.00 2451404   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:33     1000     50096   21.00   97.00    0.00    0.00  118.00     1      7.00      0.00 2451404   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:34     1000     50096   24.00   96.00    0.00    0.00  120.00     1      5.00      0.00 2451280   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:35     1000     50096   20.79  100.99    0.00    0.00  121.78     1      2.97      0.00 2451280   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:36     1000     50096   23.00   99.00    0.00    0.00  122.00     1      2.00      0.00 2451280   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:37     1000     50096   21.00  101.00    0.00    0.00  122.00     1      0.00      0.00 2451280   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:38     1000     50096   23.00  101.00    0.00    0.00  124.00     1      0.00      0.00 2451280   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:39     1000     50096   22.00  101.00    0.00    0.00  123.00     1      0.00      0.00 2451280   18488   0.23  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:30:40     1000     50096   20.00  100.00    0.00    0.00  120.00     1      0.00      0.00 2451280   18488   0.23  rust-http
+

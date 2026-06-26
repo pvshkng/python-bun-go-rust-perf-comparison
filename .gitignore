@@ -2,3 +2,5 @@ node_modules/
 vendor/
 *.env
 .env*
+.bin/
+target/

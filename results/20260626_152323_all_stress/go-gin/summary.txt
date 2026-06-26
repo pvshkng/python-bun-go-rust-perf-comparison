@@ -1,0 +1,11 @@
+server:   go-gin
+scenario: stress
+requests: 96136
+req/s:    1373.36
+avg ms:   51.55
+p95 ms:   213.21
+max ms:   1052.01
+fail %:   0
+cpu avg:  81.8
+cpu max:  92.0
+mem max:  41.7 MB

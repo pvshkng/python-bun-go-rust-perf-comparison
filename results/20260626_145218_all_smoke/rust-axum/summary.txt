@@ -1,0 +1,11 @@
+server:   rust-axum
+scenario: smoke
+requests: 6528
+req/s:    1087.08
+avg ms:   9.01
+p95 ms:   16.5
+max ms:   37.05
+fail %:   0
+cpu avg:  95.2
+cpu max:  103.0
+mem max:  8.1 MB

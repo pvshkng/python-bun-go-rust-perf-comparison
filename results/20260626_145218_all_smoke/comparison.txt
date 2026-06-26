@@ -1,0 +1,9 @@
+server      rate     avg_ms  p95_ms  fail_pct  mem_mb
+go-http     1062.98  9.19    18.97   0         18.5
+go-gin      1500.06  6.48    11.94   0         22.1
+go-fiber    1507.57  6.46    12.14   0         19.3
+bun-http    1357.09  7.21    12.62   0         100.1
+bun-hono    1517.28  6.44    10.62   0         103.3
+rust-http   814.08   12.05   21.23   0         4.4
+rust-actix  939.04   10.43   20.52   0         9.4
+rust-axum   1087.08  9.01    16.5    0         8.1

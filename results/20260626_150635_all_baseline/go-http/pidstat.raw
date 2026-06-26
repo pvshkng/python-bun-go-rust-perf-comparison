@@ -1,0 +1,182 @@
+Linux 7.0.12-1-cachyos (cachyos-x8664) 	2026-06-26 	_x86_64_	(4 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:37     1000     44396   30.00   43.00    0.00   28.00   73.00     0   1349.00      1.00 1939060   20056   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:38     1000     44396   35.00   51.00    0.00   32.00   86.00     1   1119.00      0.00 1939060   19820   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:39     1000     44396   35.00   53.00    0.00   33.00   88.00     1   1182.00      0.00 1939060   19848   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:40     1000     44396   35.00   49.00    0.00   30.00   84.00     2   1021.00      0.00 1939060   20044   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:41     1000     44396   35.00   49.00    0.00    5.00   84.00     1   1039.00      0.00 1939060   20012   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:42     1000     44396   38.00   48.00    0.00    5.00   86.00     0   1454.00      0.00 1939060   19864   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:43     1000     44396   33.00   51.00    0.00   16.00   84.00     0   1436.00      0.00 1939060   19892   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:44     1000     44396   34.00   52.00    0.00   31.00   86.00     0   1288.00      0.00 1939060   19924   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:45     1000     44396   35.00   50.00    0.00   22.00   85.00     1   1005.00      0.00 1939060   19968   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:46     1000     44396   38.61   47.52    0.00   22.77   86.14     1    610.89      0.00 1939060   19924   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:47     1000     44396   35.00   50.00    0.00   33.00   85.00     0    588.00      0.00 2012792   20040   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:48     1000     44396   34.00   51.00    0.00   26.00   85.00     2    662.00      0.00 2012792   20072   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:49     1000     44396   37.00   48.00    0.00   33.00   85.00     1    483.00      0.00 2012792   20048   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:50     1000     44396   35.00   49.00    0.00   33.00   84.00     3    867.00      0.00 2012792   20040   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:51     1000     44396   34.00   51.00    0.00   22.00   85.00     1    790.00      0.00 2012792   20288   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:52     1000     44396   37.00   49.00    0.00   28.00   86.00     3    946.00      0.00 2012792   20224   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:53     1000     44396   35.00   50.00    0.00   27.00   85.00     2    755.00      0.00 2012792   20312   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:54     1000     44396   36.00   48.00    0.00   33.00   84.00     1    827.00      0.00 2012792   20088   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:55     1000     44396   38.00   47.00    0.00    5.00   85.00     3    850.00      0.00 2012792   20244   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:56     1000     44396   34.00   50.00    0.00    2.00   84.00     0    797.00      0.00 2012792   20300   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:57     1000     44396   36.00   49.00    0.00   30.00   85.00     0    777.00      0.00 2012792   20096   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:58     1000     44396   36.00   49.00    0.00   26.00   85.00     3    733.00      0.00 2012792   20160   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:06:59     1000     44396   38.00   48.00    0.00   38.00   86.00     0   1207.00      0.00 2012792   20308   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:00     1000     44396   35.00   46.00    0.00   33.00   81.00     1    801.00      0.00 2012792   20404   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:01     1000     44396   36.00   49.00    0.00   29.00   85.00     0   1279.00      0.00 2012792   20232   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:02     1000     44396   37.00   47.00    0.00   38.00   84.00     2    902.00      0.00 2012792   20172   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:03     1000     44396   37.00   48.00    0.00   36.00   85.00     2    912.00      0.00 2012792   20012   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:04     1000     44396   35.00   49.00    0.00   35.00   84.00     2    760.00      0.00 2012792   20164   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:05     1000     44396   36.00   47.00    0.00   30.00   83.00     0    599.00      0.00 2012792   20020   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:06     1000     44396   34.00   49.00    0.00   36.00   83.00     1    578.00      0.00 2012792   20244   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:07     1000     44396   35.00   50.00    0.00   34.00   85.00     3    781.00      0.00 2012792   20116   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:08     1000     44396   35.64   46.53    0.00   32.67   82.18     3    847.52      0.00 2012792   20480   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:09     1000     44396   34.00   50.00    0.00    0.00   84.00     0    466.00      0.00 2012792   20220   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:10     1000     44396   37.00   47.00    0.00   30.00   84.00     3   1005.00      0.00 2012792   20192   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:11     1000     44396   34.00   49.00    0.00   14.00   83.00     2    753.00      0.00 2012792   20124   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:12     1000     44396   34.00   46.00    0.00   31.00   80.00     1    507.00      0.00 2012792   20404   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:13     1000     44396   34.00   48.00    0.00   40.00   82.00     1    628.00      0.00 2012792   20112   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:14     1000     44396   34.00   48.00    0.00   25.00   82.00     1    602.00      0.00 2012792   20216   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:15     1000     44396   34.00   49.00    0.00   33.00   83.00     1    519.00      0.00 2012792   20284   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:16     1000     44396   33.00   50.00    0.00   33.00   83.00     1    566.00      0.00 2086524   20568   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:17     1000     44396   38.00   46.00    0.00   21.00   84.00     3    530.00      0.00 2086524   20400   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:18     1000     44396   35.00   48.00    0.00   38.00   83.00     1    556.00      0.00 2086524   20396   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:19     1000     44396   34.00   48.00    0.00    4.00   82.00     0    499.00      0.00 2086524   20476   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:20     1000     44396   35.00   48.00    0.00   34.00   83.00     0    572.00      0.00 2086524   20388   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:21     1000     44396   36.63   47.52    0.00   33.66   84.16     0    982.18      0.00 2086524   20156   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:22     1000     44396   34.00   46.00    0.00   39.00   80.00     2   1009.00      0.00 2086524   20464   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:23     1000     44396   35.00   49.00    0.00   28.00   84.00     2    914.00      0.00 2086524   20384   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:24     1000     44396   37.00   47.00    0.00   34.00   84.00     1    822.00      0.00 2086524   20336   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:25     1000     44396   37.00   46.00    0.00   26.00   83.00     2    916.00      0.00 2086524   20508   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:26     1000     44396   36.00   47.00    0.00   31.00   83.00     0    805.00      0.00 2086524   20464   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:27     1000     44396   34.00   50.00    0.00   38.00   84.00     2    822.00      0.00 2086524   20408   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:28     1000     44396   34.00   50.00    0.00   31.00   84.00     1    778.00      0.00 2086524   20308   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:29     1000     44396   36.00   47.00    0.00   35.00   83.00     3    846.00      0.00 2086524   20148   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:30     1000     44396   36.00   47.00    0.00   25.00   83.00     3    921.00      0.00 2086524   20508   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:31     1000     44396   37.00   48.00    0.00    0.00   85.00     3   1060.00      0.00 2086524   20164   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:32     1000     44396   36.00   46.00    0.00    0.00   82.00     3    872.00      0.00 2086524   20236   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:33     1000     44396   35.00   46.00    0.00    0.00   81.00     3    721.00      0.00 2086524   20336   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:34     1000     44396   35.00   50.00    0.00   11.00   85.00     1    778.00      0.00 2086524   20404   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:35     1000     44396   35.00   49.00    0.00   37.00   84.00     2    783.00      0.00 2086524   20344   0.25  go-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+15:07:36     1000     44396   34.00   49.00    0.00   27.00   83.00     1   1200.00      0.00 2086524   20512   0.25  go-http
+

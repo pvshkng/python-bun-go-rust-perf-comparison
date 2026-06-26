@@ -1,0 +1,11 @@
+server:   bun-hono
+scenario: stress
+requests: 112677
+req/s:    1609.64
+avg ms:   43.91
+p95 ms:   115.35
+max ms:   355.98
+fail %:   0
+cpu avg:  61.8
+cpu max:  114.0
+mem max:  129.0 MB

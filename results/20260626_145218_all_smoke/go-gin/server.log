@@ -1,0 +1,2 @@
+2026/06/26 14:52:28 go-gin server listening on :8080
+2026/06/26 14:52:28 targetting STUB_URL at :http://localhost:9090/v1/chat/completions

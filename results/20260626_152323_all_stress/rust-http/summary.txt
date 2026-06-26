@@ -1,0 +1,11 @@
+server:   rust-http
+scenario: stress
+requests: 56915
+req/s:    813.05
+avg ms:   87.17
+p95 ms:   286.39
+max ms:   966.67
+fail %:   0
+cpu avg:  120.8
+cpu max:  130.0
+mem max:  18.1 MB

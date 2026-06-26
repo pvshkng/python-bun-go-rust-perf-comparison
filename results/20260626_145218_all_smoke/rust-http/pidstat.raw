@@ -1,0 +1,20 @@
+Linux 7.0.12-1-cachyos (cachyos-x8664) 	2026-06-26 	_x86_64_	(4 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:53:06     1000     40723   21.00   98.00    0.00    0.00  119.00     2    180.00      0.00  682508    4480   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:53:07     1000     40723   24.00  106.00    0.00    0.00  130.00     2      0.00      0.00  682508    4480   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:53:08     1000     40723   21.00   96.00    0.00    0.00  117.00     2      0.00      0.00  682508    4480   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:53:09     1000     40723   17.00   77.00    0.00    0.00   94.00     2      0.00      0.00  682508    4480   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:53:10     1000     40723   21.00  102.00    0.00    0.00  123.00     2      1.00      0.00  682508    4480   0.06  rust-http
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+14:53:11     1000     40723   23.00  100.00    0.00    0.00  123.00     2      0.00      0.00  682508    4480   0.06  rust-http
+

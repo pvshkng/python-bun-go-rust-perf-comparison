@@ -1,0 +1,11 @@
+server:   rust-actix
+scenario: stress
+requests: 78657
+req/s:    1123.65
+avg ms:   63.11
+p95 ms:   294.32
+max ms:   1543.87
+fail %:   0
+cpu avg:  107.6
+cpu max:  114.0
+mem max:  25.5 MB

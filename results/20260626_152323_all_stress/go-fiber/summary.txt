@@ -1,0 +1,11 @@
+server:   go-fiber
+scenario: stress
+requests: 98742
+req/s:    1410.58
+avg ms:   50.19
+p95 ms:   207.5
+max ms:   973.19
+fail %:   0
+cpu avg:  78.5
+cpu max:  86.0
+mem max:  35.8 MB

@@ -1,0 +1,11 @@
+server:   go-fiber
+scenario: smoke
+requests: 9054
+req/s:    1507.57
+avg ms:   6.46
+p95 ms:   12.14
+max ms:   36.44
+fail %:   0
+cpu avg:  75.0
+cpu max:  80.0
+mem max:  19.3 MB

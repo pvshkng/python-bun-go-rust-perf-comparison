@@ -1,0 +1,11 @@
+server:   rust-http
+scenario: smoke
+requests: 4890
+req/s:    814.08
+avg ms:   12.05
+p95 ms:   21.23
+max ms:   41.8
+fail %:   0
+cpu avg:  117.7
+cpu max:  130.0
+mem max:  4.4 MB
