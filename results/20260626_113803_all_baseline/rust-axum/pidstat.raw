@@ -1,0 +1,181 @@
+Linux 6.18.5 (vm) 	2026-06-26 	_x86_64_	(4 CPU)
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:48        0     13727   56.00   60.00    0.00    0.00  116.00     2    364.00      0.00  549772    6820   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:49        0     13727   57.00   64.00    0.00    0.00  121.00     2     29.00      0.00  549772    6948   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:50        0     13727   53.00   72.00    0.00    0.00  125.00     2     39.00      0.00  549772    7076   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:51        0     13727   54.00   69.00    0.00    0.00  123.00     2      5.00      0.00  549772    7076   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:52        0     13727   52.00   67.00    0.00    0.00  119.00     2      9.00      0.00  549772    7076   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:53        0     13727   54.00   64.00    0.00    0.00  118.00     2     19.00      0.00  549772    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:54        0     13727   59.41   62.38    0.00    0.00  121.78     2      0.99      0.00  549772    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:55        0     13727   60.00   62.00    0.00    0.00  122.00     2     24.00      0.00  549772    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:56        0     13727   55.00   64.00    0.00    0.00  119.00     2      2.00      0.00  549772    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:57        0     13727   48.00   72.00    0.00    0.00  120.00     2      1.00      0.00  549772    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:58        0     13727   51.00   72.00    0.00    0.00  123.00     2     14.00      0.00  549724    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:47:59        0     13727   52.00   70.00    0.00    0.00  122.00     2      1.00      0.00  549724    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:00        0     13727   56.00   67.00    0.00    0.00  123.00     2      0.00      0.00  549724    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:01        0     13727   53.00   67.00    0.00    0.00  120.00     2      0.00      0.00  549724    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:02        0     13727   54.00   70.00    0.00    0.00  124.00     2      1.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:03        0     13727   57.00   67.00    0.00    0.00  124.00     2      0.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:04        0     13727   59.00   64.00    0.00    0.00  123.00     2      0.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:05        0     13727   50.00   67.00    0.00    0.00  117.00     2      0.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:06        0     13727   58.00   65.00    0.00    0.00  123.00     2      3.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:07        0     13727   57.00   65.00    0.00    0.00  122.00     2      1.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:08        0     13727   57.00   67.00    0.00    0.00  124.00     2      4.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:09        0     13727   64.00   59.00    0.00    0.00  123.00     2      0.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:10        0     13727   52.00   72.00    0.00    0.00  124.00     2      3.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:11        0     13727   52.00   72.00    0.00    0.00  124.00     2      3.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:12        0     13727   52.00   71.00    0.00    0.00  123.00     2      0.00      0.00  549708    7332   0.04  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:13        0     13727   58.00   66.00    0.00    0.00  124.00     2      4.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:14        0     13727   49.00   71.00    0.00    0.00  120.00     2      6.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:15        0     13727   55.00   68.00    0.00    0.00  123.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:16        0     13727   57.00   65.00    0.00    0.00  122.00     2      2.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:17        0     13727   59.00   64.00    0.00    0.00  123.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:18        0     13727   56.00   65.00    0.00    0.00  121.00     2      3.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:19        0     13727   54.00   69.00    0.00    0.00  123.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:20        0     13727   50.00   73.00    0.00    0.00  123.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:21        0     13727   53.00   69.00    0.00    0.00  122.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:22        0     13727   53.00   69.00    0.00    0.00  122.00     2      6.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:23        0     13727   55.00   68.00    0.00    0.00  123.00     2      1.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:24        0     13727   64.00   61.00    0.00    0.00  125.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:25        0     13727   51.00   75.00    0.00    0.00  126.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:26        0     13727   58.42   66.34    0.00    0.00  124.75     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:27        0     13727   64.00   61.00    0.00    0.00  125.00     2      1.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:28        0     13727   54.00   69.00    0.00    0.00  123.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:29        0     13727   53.00   72.00    0.00    0.00  125.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:30        0     13727   54.00   72.00    0.00    0.00  126.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:31        0     13727   54.00   70.00    0.00    0.00  124.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:32        0     13727   57.00   68.00    0.00    0.00  125.00     2      0.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:33        0     13727   53.00   68.00    0.00    0.00  121.00     2      3.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:34        0     13727   52.00   71.00    0.00    0.00  123.00     2      4.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:35        0     13727   56.00   68.00    0.00    0.00  124.00     2      3.00      0.00  549708    7460   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:36        0     13727   55.00   67.00    0.00    0.00  122.00     2      5.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:37        0     13727   62.00   63.00    0.00    0.00  125.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:38        0     13727   55.00   65.00    0.00    0.00  120.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:39        0     13727   58.00   66.00    0.00    0.00  124.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:40        0     13727   59.00   65.00    0.00    0.00  124.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:41        0     13727   53.00   71.00    0.00    0.00  124.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:42        0     13727   55.00   66.00    0.00    0.00  121.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:43        0     13727   58.00   67.00    0.00    0.00  125.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:44        0     13727   56.00   65.00    0.00    0.00  121.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:45        0     13727   52.00   72.00    0.00    0.00  124.00     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:46        0     13727   51.49   72.28    0.00    0.00  123.76     2      0.00      0.00  549708    7588   0.05  rust-axum
+
+# Time        UID       PID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+11:48:47        0     13727   55.00   69.00    0.00    0.00  124.00     2      0.00      0.00  549708    7588   0.05  rust-axum

@@ -1,0 +1,11 @@
+server:   go-gin
+scenario: baseline
+requests: 120497
+req/s:    2008.07
+avg ms:   4.85
+p95 ms:   8.96
+max ms:   25.62
+fail %:   0
+cpu avg:  103.5
+cpu max:  107.0
+mem max:  21.1 MB

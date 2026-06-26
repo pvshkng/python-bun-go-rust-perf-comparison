@@ -1,0 +1,11 @@
+server:   go-http
+scenario: baseline
+requests: 122013
+req/s:    2033.49
+avg ms:   4.79
+p95 ms:   8.92
+max ms:   25.05
+fail %:   0
+cpu avg:  96.7
+cpu max:  100.0
+mem max:  16.9 MB

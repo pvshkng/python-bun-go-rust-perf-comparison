@@ -1,0 +1,11 @@
+server:   go-fiber
+scenario: baseline
+requests: 118969
+req/s:    1982.55
+avg ms:   4.92
+p95 ms:   9.26
+max ms:   27.16
+fail %:   0
+cpu avg:  96.0
+cpu max:  101.0
+mem max:  17.5 MB

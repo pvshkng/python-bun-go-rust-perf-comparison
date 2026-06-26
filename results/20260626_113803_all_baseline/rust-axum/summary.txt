@@ -1,0 +1,11 @@
+server:   rust-axum
+scenario: baseline
+requests: 104048
+req/s:    1734.04
+avg ms:   5.64
+p95 ms:   10.12
+max ms:   25.64
+fail %:   0
+cpu avg:  122.7
+cpu max:  126.0
+mem max:  7.4 MB

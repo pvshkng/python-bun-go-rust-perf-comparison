@@ -1,0 +1,11 @@
+server:   bun-hono
+scenario: baseline
+requests: 100804
+req/s:    1679.95
+avg ms:   5.82
+p95 ms:   9.63
+max ms:   22.31
+fail %:   0
+cpu avg:  104.0
+cpu max:  108.0
+mem max:  90.7 MB
